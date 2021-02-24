@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(39, 164, 247);
+}
+
+#container{
+    background-color: white;
+    width: 480px;
+    margin: auto;
+    border-radius: 10px;
+  
+}   
+#container h1{
+    text-align: center;
+}
+
+#container ul{
+    padding-bottom: 10px;
+}
+#container figure{
+    margin:auto;
+    padding: auto;
+    text-align: center;
+}
+#container figure img{
+    margin: auto;
+    padding: auto;
+    width: 100%;
+
+}
+
+#container a input{
+    margin: auto;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgb(255, 17, 0), rgb(255, 251, 0));
+    border-radius: 5px;
+}
+
+footer{
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
